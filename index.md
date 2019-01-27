@@ -6,7 +6,7 @@ layout: default
 
 If you would like to add your software or project to one of the lists please contact us at info [at] optimal-control.org.
 
-### Optimal control
+### Trajectoru optimization
 
 | __Open optimal control library__ | [https://openocl.org](https://openocl.org) | Matlab  |
 
