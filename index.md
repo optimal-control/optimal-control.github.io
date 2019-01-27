@@ -8,8 +8,6 @@ If you would like to add your software or project to one of the lists please con
 
 ### Optimal control
 
-| | | |
-|-|-|-|
 | Open optimal control library | [https://openocl.org](https://openocl.org) | Matlab  |
 |                              |                                            |         |
 
