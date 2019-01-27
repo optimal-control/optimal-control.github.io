@@ -7,13 +7,15 @@ layout: default
 If you would like to add your software or project to one of the lists please contact us.
 
 ### Optimal control
-|                              |                                            |   |
+
+|           title              |        URL                                 | language   |
 |------------------------------|--------------------------------------------|---|
 |                              |                                            |         |
 | Open optimal control library | [https://openocl.org](https://openocl.org) | Matlab  |
 |                              |                                            |         |
 
 ### Model predictive control
+
 |                              |                     |   |
 |------------------------------|---------------------|---|
 |                              |                                                    |                    |
@@ -21,6 +23,7 @@ If you would like to add your software or project to one of the lists please con
 |                              |                                                    |                    |
 
 ### Automatic differentiation
+
 |                              |                     |   |
 |------------------------------|---------------------|---|
 |                              |                                                    |                    |
