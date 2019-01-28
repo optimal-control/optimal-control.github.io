@@ -13,7 +13,7 @@ If you would like to add your software or project to one of the lists please con
 
 ### Model predictive control
 
-[ACADO Toolkit](http://acado.github.io/) (C++, Python, Matlab/Octave)
+[ACADO Toolkit](http://acado.github.io/) (C++, Matlab)
 : ACADO Toolkit is a software environment and algorithm collection for automatic control and dynamic optimization. It provides a general framework for using a great variety of algorithms for direct optimal control, including model predictive control, state and parameter estimation and robust optimization. ACADO Toolkit is implemented as self-contained C++ code and comes along with user-friendly MATLAB interface. The object-oriented design allows for convenient coupling of existing optimization packages and for extending it with user-written optimization routines.
 
 ### Automatic differentiation
