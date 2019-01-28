@@ -8,7 +8,8 @@ If you would like to add your software or project to one of the lists please con
 
 ### Trajectory optimization
 
-| __Open optimal control library__ | [https://openocl.org](https://openocl.org) | Matlab  |
+[Open optimal control library](https://openocl.org) (Matlab/Octave)
+: The Open Optimal Control Library is a toolbox for Matlab/Octave that facilitates modelling and formulation of (parametric) optimal control problems. It interfaces Ipopt [1] to numerically solve the optimal control problems and CasADi [2] to automatically calcuate the necessary derivatives by algorithmic differentiation.
 
 ### Model predictive control
 
