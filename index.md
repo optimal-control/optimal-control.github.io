@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Optimal control software framework
+## Optimal control software architecture
 
 ### [Open Optimal Control Library](https://openocl.org) (Matlab/Octave)
 
