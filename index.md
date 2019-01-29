@@ -28,7 +28,7 @@ in late 2009, it has been used successfully for academic teaching as well as in 
 article gives an up-to-date and accessible introduction to the CasADi framework,
 which has undergone numerous design improvements over the last seven years.
 
-### [Ipopt](https://projects.coin-or.org/Ipopt) (C++, multiple interfaces)
+### [Ipopt](https://projects.coin-or.org/Ipopt) (C, C++, multiple interfaces)
 
 Ipopt is a software package for large-scale nonlinear optimization. It is designed to find (local) solutions of mathematical optimization problems. IPOPT has been designed to be flexible for a wide variety of applications, and there are a number of ways to interface with IPOPT that allow specific data structures and linear solver techniques. The list of interfaces includes AMPL, C++, C, Fortran, Java, R, Matlab, Julia. 
 
