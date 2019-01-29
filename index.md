@@ -32,6 +32,15 @@ which has undergone numerous design improvements over the last seven years.
 
 Ipopt is a software package for large-scale nonlinear optimization. It is designed to find (local) solutions of mathematical optimization problems. IPOPT has been designed to be flexible for a wide variety of applications, and there are a number of ways to interface with IPOPT that allow specific data structures and linear solver techniques. The list of interfaces includes AMPL, C++, C, Fortran, Java, R, Matlab, Julia. 
 
+Paper Abstract [1]
+: We present a primal-dual interior-point algorithm with a filter line-search method for nonlinear
+programming. Local and global convergence properties of this method were analyzed in previous work. Here
+we provide a comprehensive description of the algorithm, including the feasibility restoration phase for the filter method, second-order corrections, and inertia correction of the KKT matrix. Heuristics are also considered
+that allow faster performance. This method has been implemented in the IPOPT code, which we demonstrate
+in a detailed numerical study based on 954 problems from the CUTEr test set. An evaluation is made of several
+line-search options, and a comparison is provided with two state-of-the-art interior-point codes for nonlinear
+programming.
+
 ## References
 
 [1] On the Implementation of a Primal-Dual Interior Point Filter Line Search Algorithm for Large-Scale Nonlinear Programming  
