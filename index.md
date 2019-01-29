@@ -21,7 +21,8 @@ If you would like to add your software or project to one of the lists please con
 [CasADi](http://casadi.org/) (C++, Python, Matlab/Octave)
 : CasADi is an open-source tool for nonlinear optimization and algorithmic differentiation. It facilitates rapid — yet efficient — implementation of different methods for numerical optimal control, both in an offline context and for nonlinear model predictive control (NMPC).
 
-CasADi is a general-purpose tool that can be used to model and solve
+Abstract
+: CasADi is a general-purpose tool that can be used to model and solve
 optimization problems with a large degree of flexibility, larger than what is associated
 with popular algebraic modeling languages such as AMPL, GAMS, JuMP or Pyomo.
 Of special interest are problems constrained by differential equations, i.e. optimal
