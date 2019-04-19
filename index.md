@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimal Control
+title: Optimal Control Software
 ---
 
 
