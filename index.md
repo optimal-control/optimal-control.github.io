@@ -18,3 +18,6 @@ Open-source software project for trajectory optimization, model-predictive contr
 ### About
 
 This page is maintained by Jonas Koenemann, info@optimal-control.org
+
+{% include share-buttons.html %}
+
