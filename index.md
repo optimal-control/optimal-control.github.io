@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+
+## Literature
+
+* Lecture Notes on numerical optimal control by Prof. Moritz Diehl [PDF](https://www.syscop.de/files/2017ss/NOC/script/book-NOCSE.pdf)
+
 ## Optimal Control Open-Source Software Architecture
 
 ### [Open Optimal Control Library](https://openocl.org) (Matlab/Octave)
