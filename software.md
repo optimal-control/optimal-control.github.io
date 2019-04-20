@@ -8,6 +8,8 @@ layout: default
 
 The Open Optimal Control Library is a toolbox for Matlab/Octave that facilitates modelling and formulation of (parametric) optimal control problems. It interfaces Ipopt [1] to numerically solve the optimal control problems and CasADi [2] to automatically calcuate the necessary derivatives by algorithmic differentiation.
 
+[List of features in google docs](https://docs.google.com/document/d/1g9nJSa88yZEy2msrfwylMSZERK6DdQc_ucsDSfBltj4/edit?usp=sharing)
+
 ### [ACADO Toolkit](http://acado.github.io/) (C++, Matlab)
 
 ACADO Toolkit is a software environment and algorithm collection for automatic control and dynamic optimization. It provides a general framework for using a great variety of algorithms for direct optimal control, including model predictive control, state and parameter estimation and robust optimization. ACADO Toolkit is implemented as self-contained C++ code and comes along with user-friendly MATLAB interface. The object-oriented design allows for convenient coupling of existing optimization packages and for extending it with user-written optimization routines.
