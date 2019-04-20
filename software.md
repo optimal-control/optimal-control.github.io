@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /software/
 ---
 
 ## Optimal Control Open-Source Software Architecture
