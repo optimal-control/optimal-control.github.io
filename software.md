@@ -9,7 +9,7 @@ permalink: /software/
 
 The Open Optimal Control Library is a toolbox for Matlab/Octave that facilitates modelling and formulation of (parametric) optimal control problems. It interfaces Ipopt [1] to numerically solve the optimal control problems and CasADi [2] to automatically calcuate the necessary derivatives by algorithmic differentiation.
 
-[List of features in google docs](https://docs.google.com/document/d/1g9nJSa88yZEy2msrfwylMSZERK6DdQc_ucsDSfBltj4/edit?usp=sharing)
+[List of features as google docs](https://docs.google.com/document/d/1g9nJSa88yZEy2msrfwylMSZERK6DdQc_ucsDSfBltj4/)
 
 ### [ACADO Toolkit](http://acado.github.io/) (C++, Matlab)
 
