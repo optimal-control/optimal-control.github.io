@@ -20,7 +20,7 @@ Open-source software project for trajectory optimization, model-predictive contr
 
 [Github repository](https://github.com/jkoendev/optimal-control-literature-software) with literature and list of software for optimal control and numerical optimization.
 
-[More software](/software/)
+[More software](software.md)
 
 
 ## About
