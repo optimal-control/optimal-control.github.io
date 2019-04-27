@@ -13,6 +13,8 @@ Open-source software project for trajectory optimization, model-predictive contr
 
 [More software](software.md)
 
+[Youtube Channel](https://www.youtube.com/channel/UCgNdBN13iAQLzZxYm8PiyfA)
+
 
 ## About
 
