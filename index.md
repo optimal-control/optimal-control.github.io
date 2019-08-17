@@ -3,9 +3,9 @@ layout: default
 title: Optimal Control Literature and Software
 ---
 
-## [Open Optimal Control Library](https://openocl.org) (Matlab/Octave)
+## [Open Optimal Control Library](https://openocl.org)
 
-Open-source software project for trajectory optimization, model-predictive control (MPC), dynamical optimization, optimal-control, parametric optimization. OpenOCL is a toolbox for Matlab and Octave. Download the latest version at [https://openocl.org/get-started/](https://openocl.org/get-started/).
+Open-source software project for trajectory optimization, model predictive control (MPC), dynamical optimization, optimal-control, parametric optimization. OpenOCL is a toolbox for Matlab. Download the latest version at [https://openocl.org/get-started/](https://openocl.org/get-started/).
 
 ## Have a look at
 
@@ -21,6 +21,7 @@ Open-source software project for trajectory optimization, model-predictive contr
 This project is being maintained by [jkoendev](https://github.com/jkoendev), info@optimal-control.org
 
 {% include share-buttons.html %}
+
 # Literature and list of software packages for optimal control 
 
 The list includes resources to the following topics: Automatic/algorithmic differentiation, optimal control, model-predictive control (MPC), numerical optimization, modeling for control.  The list will be updated regularly, create a pull request if you'd like to contribute.
