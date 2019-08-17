@@ -47,6 +47,9 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 * F. Topputo and C. Zhang, “Survey of Direct Transcription for Low-Thrust Space Trajectory Optimization with Applications,” Abstract and Applied Analysis, vol. 2014, Article ID 851720, 15 pages, 2014. [[edited](https://www.hindawi.com/journals/aaa/2014/851720/)
 
 
+
+{% include https://raw.githubusercontent.com/jkoendev/optimal-control-literature-software/master/README.md %}
+
 ### Software 
 
 #### High level optimal control modeling languages
