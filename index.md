@@ -21,40 +21,37 @@ Open-source software project for trajectory optimization, model-predictive contr
 This project is being maintained by [jkoendev](https://github.com/jkoendev), info@optimal-control.org
 
 {% include share-buttons.html %}
-
-## Literature and list of software packages for optimal control 
+# Literature and list of software packages for optimal control 
 
 The list includes resources to the following topics: Automatic/algorithmic differentiation, optimal control, model-predictive control (MPC), numerical optimization, modeling for control.  The list will be updated regularly, create a pull request if you'd like to contribute.
 
-### Literature
+## Literature
 
-#### Lectures
+### Lectures
 
 * Lecture notes: Numerical Optimal Control by Prof. Moritz Diehl [[course](https://www.syscop.de/teaching/ss2017/numerical-optimal-control)] [[pdf](https://www.syscop.de/files/2017ss/NOC/script/book-NOCSE.pdf)]
 * Tutorial series by Metthew Kelly, [[web](http://www.matthewpeterkelly.com/tutorials/index.html)]
 * Liberzon, Daniel. Calculus of variations and optimal control theory: a concise introduction. Princeton University Press, 2011. [[pre-print](http://liberzon.csl.illinois.edu/teaching/cvoc.pdf)]
 * Videos of lectures at the University of Florida from the Spring of 2012. Dr. Anil V. Rao. [[web](http://www.anilvrao.com/Optimal-Control-Videos.html)]
 
-#### Books
+### Books
 
 * Bertsekas, Dimitri P., et al. Dynamic programming and optimal control. Vol. 1. No. 2. Belmont, MA: Athena scientific, 1995.
 * Betts, J., Practical Methods for Optimal Control and Estimation Using Nonlinear Programming, SIAM, 2010
 * Biegler, L. T., Nonlinear Programming, SIAM, 2010
 * Model Predictive Control: Theory, Computation, and Design, 2nd Edition by Rawlings, Mayne, Diehl [[web](https://sites.engineering.ucsb.edu/~jbraw/mpc/)] [[pdf](https://sites.engineering.ucsb.edu/~jbraw/mpc/MPC-book-2nd-edition-2nd-printing.pdf)]
 
-#### Survey papers
+### Survey papers
 
 * F. Topputo and C. Zhang, “Survey of Direct Transcription for Low-Thrust Space Trajectory Optimization with Applications,” Abstract and Applied Analysis, vol. 2014, Article ID 851720, 15 pages, 2014. [[edited](https://www.hindawi.com/journals/aaa/2014/851720/)
 
 
+## Software 
 
-{% include https://raw.githubusercontent.com/jkoendev/optimal-control-literature-software/master/README.md %}
-
-### Software 
-
-#### High level optimal control modeling languages
+### High level optimal control modeling languages and optimal control software
 
 - Acado [[github](https://github.com/acado/acado)] [[web](http://acado.github.io/)]
+- acados [[github](https://github.com/acados/acados)] [[web](http://acados.org/)]
 - BOCOP [[web](https://www.bocop.org/)]
 - Control toolbox, domain specific for robotics [[bitbucket](https://bitbucket.org/adrlab/ct/wiki/Home)]
 - Dymos: Open-source Optimal Control for Multidisciplinary Systems [[github](https://github.com/OpenMDAO/dymos)]
@@ -73,16 +70,16 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - Optimica, Dymola (commercial)
 - PROPT (commercial)
 
-#### High level numerical optimization modeling languages
+### High level numerical optimization modeling languages
 
 - CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
 - CVX, convex [[web](http://cvxr.com/cvx/)]
 - Pyomo [[github](https://github.com/Pyomo/pyomo)] [[web](http://www.pyomo.org/)] 
 - Yalmip [[github](https://github.com/yalmip/YALMIP)] [[web](https://yalmip.github.io/)] 
 
-#### Numerical optimization solver 
+### Numerical optimization solver 
 
-##### Non-linear programming
+#### Non-linear programming
 
 - Ipopt [[github](https://github.com/coin-or/Ipopt)]
 - CONOPT (commercial)
@@ -93,7 +90,7 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - WORHP (commercial)
 
 
-##### Linear, quadratic, convex programming
+#### Linear, quadratic, convex programming
 
 - ECOS [[github](https://github.com/embotech/ecos)]
 - hpipm [[github](https://github.com/giaf/hpipm)]
@@ -106,18 +103,18 @@ The list includes resources to the following topics: Automatic/algorithmic diffe
 - MINOS (commercial)
 - Mosek (commercial)
 
-##### Integer, mixed-integer programming
+#### Integer, mixed-integer programming
 
 - Bonmin
 
-### Automatic differentiation
+## Automatic differentiation
 
 - CasADi [[github](https://github.com/casadi/casadi)] [[web](https://web.casadi.org/)]
 - CppAD [[github](https://github.com/coin-or/CppAD)]
 - CppADCodeGen [[github](https://github.com/joaoleal/CppADCodeGen)]
 - JuliaDiff [[github](https://github.com/JuliaDiff/)] [[web](http://www.juliadiff.org/)]
 
-### Other material
+## Other material
 
 - Summer School on Numerical Optimization Software (includes a long list of solvers in the slides, see repository), Hans D. Mittelmann, Moritz Diehl [[web](https://www.syscop.de/teaching/2016/summer-school-on-numerical-optimization-software)] [[repository](https://gitlab.syscop.de/teaching/NOS_public)]
 - Decision tree, benchmarks for optimization software, Hans D. Mittelmann [[web](http://plato.asu.edu/)]
